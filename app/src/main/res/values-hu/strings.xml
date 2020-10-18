@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prometheus</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="api_header">Prometheus API</string>
+    <string name="password_title">Jelszó</string>
+    <string name="sync_header">Sync</string>
+    <string name="sync_title">Figyelmeztetések hiba esetén</string>
+    <string name="tab_text_1">Hibák</string>
+    <string name="tab_text_2">Állapotok</string>
+    <string name="title_activity_settings">Beállítások</string>
+    <string name="url_title">Alap URL</string>
+    <string name="username_title">Felhasználónév</string>
+    <string name="down">áll</string>
+    <string name="up">fut</string>
+</resources>

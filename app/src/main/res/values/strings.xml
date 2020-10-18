@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">prometheus</string>
+    <string name="tab_text_1">Alerts</string>
+    <string name="tab_text_2">Statuses</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="api_header">Prometheus API</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="username_title">Username</string>
+    <string name="password_title">Password</string>
+    <string name="url_title">Base URL</string>
+
+    <string name="sync_title">Enable alert notification</string>
+
+    <string name="up">up</string>
+    <string name="down">down</string>
+</resources>

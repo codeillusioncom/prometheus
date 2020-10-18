@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prometheus</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="api_header">Prometheus API</string>
+    <string name="down">unten</string>
+    <string name="password_title">Passwort</string>
+    <string name="sync_header">Sync</string>
+    <string name="sync_title">Warnmeldungen aktivieren</string>
+    <string name="tab_text_1">Warnungen</string>
+    <string name="tab_text_2">Status</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="up">laufen</string>
+    <string name="url_title">Bases URL</string>
+    <string name="username_title">Nutzername</string>
+</resources>
